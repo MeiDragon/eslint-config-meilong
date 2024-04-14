@@ -1,0 +1,31 @@
+{
+  "name": "eslint-config-meilong",
+  "version": "0.0.1",
+  "description": "ESLint shareable configuration for MeiDragon F2E Guidelines",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MeiDragon/eslint-config-meilong.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MeiDragon/eslint-config-meilong/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": {
+    "name": "HduSy",
+    "email": "bilisantu@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint-plugin-react": "^7.34.1",
+    "eslint-plugin-vue": "^9.24.1",
+    "typescript-eslint": "^7.6.0"
+  }
+}
